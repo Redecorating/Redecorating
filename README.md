@@ -28,7 +28,7 @@
      /ossssssss/        +ssssooo/-       Terminal: xfce4-terminal 
    `/ossssso+/:-        -:/+osssso+-     Terminal Font: Source Code Pro Medium 15 
   `+sso+:-`                 `.-/+oso:    CPU: Intel i7-9750H (12) @ 2.601GHz 
- `++:.                           `-/+/   GPU: AMD ATI Radeon RX 5500/5500M / Pro 5500M 
+ `++:.                           `-/+/   GPU: AMD ATI Radeon RX Pro 5300M
  .`                                 `/   GPU: Intel CoffeeLake-H GT2 [UHD Graphics 630] 
                                          Memory: 4436MiB / 15894MiB
 ```
