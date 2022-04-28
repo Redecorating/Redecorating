@@ -33,4 +33,4 @@
                                          Memory: 4436MiB / 15894MiB
 ```
 
-Gnome apps with flatpak are lovely. I do miss sway's native tiling a bit...
+Gnome apps with flatpak are lovely. I do miss sway's native tiling a bit (but [this](https://github.com/Leleat/Tiling-Assistant) is decent)
