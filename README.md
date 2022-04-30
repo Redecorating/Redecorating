@@ -9,8 +9,9 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: 我学习中文
 
-```
-> neofetch
+<details>
+  <summary><pre class="notranslate"><code class="notranslate">> neofetch</code></pre></summary>
+<pre class="notranslate"><code class="notranslate">
                    -`                    red@redecorated-mbp 
                   .o+`                   ------------------- 
                  `ooo/                   OS: Arch Linux x86_64 
@@ -31,6 +32,7 @@
  `++:.                           `-/+/   GPU: AMD ATI Radeon RX Pro 5300M
  .`                                 `/   GPU: Intel CoffeeLake-H GT2 [UHD Graphics 630] 
                                          Memory: 4436MiB / 15894MiB
-```
+  </code></pre>
 
 Gnome apps with flatpak are lovely. I do miss sway's native tiling a bit (but [this](https://github.com/Leleat/Tiling-Assistant) is decent)
+</details>
