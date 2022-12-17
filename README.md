@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 ##### About me
-- 🔭 I’m currently procrastinating working on homework as I write this.
-- 🌱 I’m currently learning the physics and other stuff too.
-- 🤔 I’m looking for help with a Linux GMUX driver for T2 Macs (help as in someone else write one, idk how to do it)
+- 🔭 I’m currently procrastinating working on my resume as I write this.
+- 🌱 I’m going to be learning computer science and engineering next year, if I get into the course I want.
 - 💬 Ask me about Linux, I need someone to talk to...
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: 我学习中文
