@@ -10,4 +10,4 @@
 ##### Contact me
 - 📫 Ways to reach me: uhhhhh
 ##### Support me
-- 💸 Donations: I'm not able to take commissions or anything like that at the moment (have to focus on ~~procrastination~~ study), but https://paypal.me/redecorating is there if you want to support me.
+- 💸 Donations: https://paypal.me/redecorating is there if you want to support me.
