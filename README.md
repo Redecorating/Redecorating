@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ##### About me
-- 🔭 I’m currently procrastinating working on my resume as I write this.
+- 🔭 I’m currently procrastinating working on upstreaming gmux and magic backlight
 - 🌱 I'm studying computer science and engineering at university.
 - 💬 Ask me about Linux, I need someone to talk to...
 - 😄 Pronouns: he/him
