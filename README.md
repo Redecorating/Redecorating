@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ##### About me
-- 🌱 I'm studying computer science and engineering at $UNIVERSITY (ok not yet but in a few weeks).
+- 🌱 I'm studying computer science and engineering at a university.
 - 💬 Ask me about Linux, I need someone to talk to...
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: 我学习中文
