@@ -12,5 +12,6 @@
 ##### Contact me
 - 📫 Ways to reach me: The gmail address my commits are signed with.
 - Locales (in order of preference): en_AU, en_\*,  zh_CN (at a level below that of a 6 year old)
+- <a rel="me" href="https://fosstodon.org/@redecorating">Mastodon</a>
 ##### Support me
 - 💸 Donations: https://paypal.me/redecorating is there if you want to support me. 
