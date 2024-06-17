@@ -14,4 +14,4 @@
 - Locales (in order of preference): en_AU, en_\*,  zh_CN (at a level below that of a 6 year old)
 - <a rel="me" href="https://fosstodon.org/@redecorating">Mastodon</a>
 ##### Support me
-- 💸 Donations: https://paypal.me/redecorating is there if you want to support me. 
+- 💸 Donations: Github sponsors and https://paypal.me/redecorating are there if you want to support me (so I'll have more motivation to work on OSS stuff!). 
