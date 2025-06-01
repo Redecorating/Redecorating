@@ -7,6 +7,7 @@
 - ⚡ Fun fact: 我学习中文
 - 💻 My Computer: A 2019 16" Macbook Pro running NixOS, with Gnome and Flatpak
 ##### I'm working on
+- A Robot!
 - Linux drivers for T2 Macs
 - Procrastinating
 ##### Contact me
